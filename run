@@ -1,0 +1,18 @@
+Please enter an number(less than ten billion): 
+123
+one hundred twenty three
+Please enter an number(less than ten billion): 
+9999999999
+nine billion nine hundred ninety nine million nine hundred ninety nine thousand nine hundred ninety nine
+Please enter an number(less than ten billion): 
+10000000000
+You input invalid number.Try again.
+Please enter an number(less than ten billion): 
+1000000000
+one billion 
+Please enter an number(less than ten billion): 
+234560203
+two hundred thirty four million five hundred sixty thousand two hundred three
+Please enter an number(less than ten billion): 
+
+
